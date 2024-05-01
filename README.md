@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn3.vectorstock.com/i/1000x1000/12/77/flat-style-thin-line-banner-design-of-coding-vector-15041277.jpg)]
+![MasterHead](https://cdn3.vectorstock.com/i/1000x1000/12/77/flat-style-thin-line-banner-design-of-coding-vector-15041277.jpg)
 <h1 align="center">Hi 👋, I'm Yasir Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
