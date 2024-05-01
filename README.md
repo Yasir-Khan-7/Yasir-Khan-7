@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Yasir-Khan-7/Yasir-Khan-7/assets/110191648/bce4e7ab-bf91-4fe9-8d9a-c73a40967968)
-">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-khan-7&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-khan-7" /> </p>
 
