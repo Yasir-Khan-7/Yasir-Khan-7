@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yasir Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Python developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-khan-7&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-khan-7" /> </p>
 
-- 🌱 I’m currently learning **Python and MERN**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **web Projects and Python**
+- 👯 I’m looking to collaborate on **Python Projects**
 
-- 💬 Ask me about **Web dev and Python**
+- 💬 Ask me about **Python and Data Science**
 
 - 📫 How to reach me **yasirkhandps7@gmail.com**
 
