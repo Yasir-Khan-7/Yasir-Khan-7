@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-khan-7&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-khan-7" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning about **AI and Data Analysis**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 💬 Ask me about **Python and Data Science**
+- 💬 Ask me about **Python and Data Analysis**
 
 - 📫 How to reach me **yasirkhandps7@gmail.com**
 
