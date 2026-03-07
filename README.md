@@ -18,3 +18,5 @@
 <a href="https://instagram.com/yasir.devlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasir.devlife" height="30" width="40" /></a>
 </p>
 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yasir-Khan-7&theme=dracula" alt="GitHub Streak" /></a>
