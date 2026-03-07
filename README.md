@@ -18,4 +18,3 @@
 <a href="https://instagram.com/yasir.devlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasir.devlife" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir-khan-7&" alt="yasir-khan-7" /></p>
