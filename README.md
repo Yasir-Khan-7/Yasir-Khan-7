@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Dataand AI Engineering**
+- 💬 Ask me about **Data & AI Engineering**
 
 - 📫 How to reach me **yasirkhandps7@gmail.com**
 
